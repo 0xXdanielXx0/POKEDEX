@@ -1,0 +1,27 @@
+.hello{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.bye {
+    border-color: black;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 0rem 50rem 50rem 0rem;
+    font-weight: 500;
+    
+}
+.nose{
+    border-radius: 50rem 0rem 0rem 50rem;
+    margin-top: 3rem;
+    margin-left: 35rem;
+    
+}
+
+.classp{
+    background-color: red;
+    color: aliceblue;
+    font-weight: 700;
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
